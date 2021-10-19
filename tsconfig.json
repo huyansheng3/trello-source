@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "allowJs": true,
+    "paths": {
+      "@trello": ["packages"],
+      "app": ["app"],
+    }
+  },
+}
